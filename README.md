@@ -1,0 +1,1 @@
+# This is a QR ocde generator project using HTML,CSS And JAVASCRIPT.
